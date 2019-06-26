@@ -1,0 +1,10 @@
+{
+  "name": "watchFolders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yusunglee",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.0.1"
+  }
+}
